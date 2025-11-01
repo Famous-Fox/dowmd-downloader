@@ -1,5 +1,5 @@
 # <img align="top" width="40" height="45" alt="DowMD" src="https://github.com/user-attachments/assets/c1691bb9-01d3-484f-8a3c-b41d9b7c57c8" /> DowMD (Dawn of War - Maps Downloader)
-This is an application for downloading maps from the [repository](https://github.com/Famous-Fox/dow-de-custom-maps)
+This is an application for downloading maps from this [repository](https://github.com/Famous-Fox/dow-de-custom-maps)
 
 # :ledger: Instructions for use
 :one: Download this application from the latest release (or download this repository);
@@ -10,3 +10,5 @@ This is an application for downloading maps from the [repository](https://github
 
 :three: Run the DowMD.exe application and wait for the installation to complete. In the console itself, you can see what has been installed (or which outdated map files have been deleted).
 <img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/f23f07b4-710a-42f6-afb9-62e0e0efcd31" />
+
+:four: Launch the game and play! :crossed_swords:
